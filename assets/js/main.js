@@ -160,3 +160,89 @@ if (statNumbers.length > 0) {
 
   statNumbers.forEach((stat) => statObserver.observe(stat));
 }
+
+// Testimonial Carousel Functionality
+function initializeCarousel(carouselName) {
+  const carousel = document.querySelector(`[data-carousel="${carouselName}"]`);
+  
+  if (!carousel) return;
+
+  const track = carousel.querySelector('.carousel-track');
+  const slides = carousel.querySelectorAll('.carousel-slide');
+  const dots = carousel.querySelectorAll('.carousel-dot');
+  let currentIndex = 0;
+  let autoTimer;
+
+  const totalSlides = slides.length;
+
+  const goToSlide = (index) => {
+    const bounded = (index + totalSlides) % totalSlides;
+    currentIndex = bounded;
+
+    const offset = -bounded * 100;
+    track.style.transform = `translateX(${offset}%)`;
+
+    dots.forEach((dot, dotIndex) => {
+      dot.classList.toggle('is-active', dotIndex === bounded);
+    });
+  };
+
+  const nextSlide = () => {
+    goToSlide(currentIndex + 1);
+  };
+
+  const startAutoPlay = () => {
+    autoTimer = setInterval(nextSlide, 6000);
+  };
+
+  const stopAutoPlay = () => {
+    clearInterval(autoTimer);
+  };
+
+  const resetAutoPlay = () => {
+    stopAutoPlay();
+    startAutoPlay();
+  };
+
+  // Dot click handlers
+  dots.forEach((dot, index) => {
+    dot.addEventListener('click', () => {
+      goToSlide(index);
+      resetAutoPlay();
+    });
+  });
+
+  // Pause on hover, resume on leave
+  carousel.addEventListener('mouseenter', stopAutoPlay);
+  carousel.addEventListener('mouseleave', resetAutoPlay);
+
+  // Touch support for mobile
+  let touchStartX = 0;
+  let touchEndX = 0;
+
+  carousel.addEventListener('touchstart', (e) => {
+    touchStartX = e.changedTouches[0].screenX;
+    stopAutoPlay();
+  });
+
+  carousel.addEventListener('touchend', (e) => {
+    touchEndX = e.changedTouches[0].screenX;
+    
+    if (touchStartX - touchEndX > 50) {
+      // Swiped left
+      nextSlide();
+    } else if (touchEndX - touchStartX > 50) {
+      // Swiped right
+      goToSlide(currentIndex - 1);
+    }
+    
+    resetAutoPlay();
+  });
+
+  // Start auto-play
+  startAutoPlay();
+}
+
+// Initialize all carousels
+initializeCarousel('institutions');
+initializeCarousel('participants');
