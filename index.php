@@ -224,23 +224,50 @@
 
     <section id="contact" class="section section-contrast reveal">
       <div class="container">
-        <h2>Start A Strategic Partnership</h2>
-        <p class="lead">Share your program goals and we will propose a pilot-ready collaboration model for Ghana.</p>
+        <div class="contact-header">
+          <h2>Start A Strategic Partnership</h2>
+          <p class="lead">Share your program goals and we will propose a pilot-ready collaboration model for Ghana.</p>
+        </div>
         <form id="contact-form" class="contact-form" action="#" method="post" novalidate>
-          <label for="name">Full Name</label>
-          <input id="name" name="name" type="text" required>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="name">
+                <span class="form-label-icon">👤</span>
+                Full Name
+              </label>
+              <input id="name" name="name" type="text" placeholder="Your full name" required>
+            </div>
+            <div class="form-group">
+              <label for="organization">
+                <span class="form-label-icon">🏢</span>
+                Organization
+              </label>
+              <input id="organization" name="organization" type="text" placeholder="Your institution" required>
+            </div>
+          </div>
 
-          <label for="organization">Organization</label>
-          <input id="organization" name="organization" type="text" required>
+          <div class="form-row">
+            <div class="form-group">
+              <label for="email">
+                <span class="form-label-icon">✉️</span>
+                Email Address
+              </label>
+              <input id="email" name="email" type="email" placeholder="your.email@institution.edu" required>
+            </div>
+          </div>
 
-          <label for="email">Email</label>
-          <input id="email" name="email" type="email" required>
+          <div class="form-group">
+            <label for="message">
+              <span class="form-label-icon">💬</span>
+              How can we collaborate?
+            </label>
+            <textarea id="message" name="message" rows="5" placeholder="Tell us about your internship program objectives..." required></textarea>
+          </div>
 
-          <label for="message">How can we collaborate?</label>
-          <textarea id="message" name="message" rows="6" required></textarea>
-
-          <button class="btn btn-solid" type="submit">Send Inquiry</button>
-          <p id="form-feedback" class="form-feedback" role="status" aria-live="polite"></p>
+          <div class="form-actions">
+            <button class="btn btn-solid btn-large" type="submit">Send Inquiry</button>
+            <p id="form-feedback" class="form-feedback" role="status" aria-live="polite"></p>
+          </div>
         </form>
       </div>
     </section>
