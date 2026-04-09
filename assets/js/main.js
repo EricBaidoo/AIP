@@ -243,6 +243,5 @@ function initializeCarousel(carouselName) {
   startAutoPlay();
 }
 
-// Initialize all carousels
-initializeCarousel('institutions');
-initializeCarousel('participants');
+// Initialize carousel
+initializeCarousel('testimonials');

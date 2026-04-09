@@ -304,8 +304,7 @@
         <h2>What Institutions and Participants Say</h2>
         <p class="lead">Proven results from institutions across Europe. Real feedback, real impact, real transformations.</p>
 
-        <h3 class="subsection-title">Institution Testimonials</h3>
-        <div class="testimonials-carousel" data-carousel="institutions">
+        <div class="testimonials-carousel" data-carousel="testimonials">
           <div class="carousel-track">
             <article class="carousel-slide">
               <div class="quote-card">
@@ -355,17 +354,6 @@
                 </div>
               </div>
             </article>
-          </div>
-          <div class="carousel-controls">
-            <button class="carousel-dot is-active" data-index="0"></button>
-            <button class="carousel-dot" data-index="1"></button>
-            <button class="carousel-dot" data-index="2"></button>
-          </div>
-        </div>
-
-        <h3 class="subsection-title">Participant Testimonials</h3>
-        <div class="testimonials-carousel" data-carousel="participants">
-          <div class="carousel-track">
             <article class="carousel-slide">
               <div class="quote-card">
                 <div class="testimonial-header">
@@ -419,6 +407,9 @@
             <button class="carousel-dot is-active" data-index="0"></button>
             <button class="carousel-dot" data-index="1"></button>
             <button class="carousel-dot" data-index="2"></button>
+            <button class="carousel-dot" data-index="3"></button>
+            <button class="carousel-dot" data-index="4"></button>
+            <button class="carousel-dot" data-index="5"></button>
           </div>
         </div>
       </div>
