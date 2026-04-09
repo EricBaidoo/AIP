@@ -307,29 +307,53 @@
         <h3 class="subsection-title">Institution Testimonials</h3>
         <div class="testimonials-carousel" data-carousel="institutions">
           <div class="carousel-track">
-            <article class="card quote-card carousel-slide">
-              <div class="testimonial-avatar" style="background: linear-gradient(135deg, #667eea, #764ba2);"><span>CGC</span></div>
-              <p>"We were hesitant about launching an African program without a trusted partner. Cardinal's professionalism eliminated our concerns. Every student came back transformed—not just in skills, but in confidence and global perspective. We're now planning our second cohort."</p>
-              <footer>
-                <strong>Cabildo de Gran Canaria</strong>
-                <span>Director of International Relations</span>
-              </footer>
+            <article class="carousel-slide">
+              <div class="quote-card">
+                <div class="testimonial-header">
+                  <div class="testimonial-avatar" style="background: linear-gradient(135deg, #667eea, #764ba2);"><span>CGC</span></div>
+                </div>
+                <div class="testimonial-content">
+                  <p>"We were hesitant about launching an African program without a trusted partner. Cardinal's professionalism eliminated our concerns. Every student came back transformed—not just in skills, but in confidence and global perspective. We're now planning our second cohort."</p>
+                </div>
+                <div class="testimonial-footer">
+                  <footer>
+                    <strong>Cabildo de Gran Canaria</strong>
+                    <span>Director of International Relations</span>
+                  </footer>
+                </div>
+              </div>
             </article>
-            <article class="card quote-card carousel-slide">
-              <div class="testimonial-avatar" style="background: linear-gradient(135deg, #f093fb, #f5576c);"><span>FUP</span></div>
-              <p>"From visa coordination to accommodation to weekly updates—Cardinal handles complexity seamlessly. Our students felt supported every day. The employer feedback? Outstanding. These interns were more mature and adaptable than traditional European placements."</p>
-              <footer>
-                <strong>Fundación Universitaria de Las Palmas</strong>
-                <span>Head of Student Mobility</span>
-              </footer>
+            <article class="carousel-slide">
+              <div class="quote-card">
+                <div class="testimonial-header">
+                  <div class="testimonial-avatar" style="background: linear-gradient(135deg, #f093fb, #f5576c);"><span>FUP</span></div>
+                </div>
+                <div class="testimonial-content">
+                  <p>"From visa coordination to accommodation to weekly updates—Cardinal handles complexity seamlessly. Our students felt supported every day. The employer feedback? Outstanding. These interns were more mature and adaptable than traditional European placements."</p>
+                </div>
+                <div class="testimonial-footer">
+                  <footer>
+                    <strong>Fundación Universitaria de Las Palmas</strong>
+                    <span>Head of Student Mobility</span>
+                  </footer>
+                </div>
+              </div>
             </article>
-            <article class="card quote-card carousel-slide">
-              <div class="testimonial-avatar" style="background: linear-gradient(135deg, #4facfe, #00f2fe);"><span>TEP</span></div>
-              <p>"We reduced administrative burden by 70%. More importantly, educational outcomes improved. Our students return with genuine professional and cultural competencies—something we couldn't achieve with Europe-only models."</p>
-              <footer>
-                <strong>Tenerife Education Program</strong>
-                <span>Program Coordinator</span>
-              </footer>
+            <article class="carousel-slide">
+              <div class="quote-card">
+                <div class="testimonial-header">
+                  <div class="testimonial-avatar" style="background: linear-gradient(135deg, #4facfe, #00f2fe);"><span>TEP</span></div>
+                </div>
+                <div class="testimonial-content">
+                  <p>"We reduced administrative burden by 70%. More importantly, educational outcomes improved. Our students return with genuine professional and cultural competencies—something we couldn't achieve with Europe-only models."</p>
+                </div>
+                <div class="testimonial-footer">
+                  <footer>
+                    <strong>Tenerife Education Program</strong>
+                    <span>Program Coordinator</span>
+                  </footer>
+                </div>
+              </div>
             </article>
           </div>
           <div class="carousel-controls">
@@ -342,29 +366,53 @@
         <h3 class="subsection-title">Participant Testimonials</h3>
         <div class="testimonials-carousel" data-carousel="participants">
           <div class="carousel-track">
-            <article class="card quote-card carousel-slide">
-              <div class="testimonial-avatar" style="background: linear-gradient(135deg, #fa709a, #fee140);"><span>MG</span></div>
-              <p>"I was nervous about Ghana, but from the moment I landed, I felt secure. My internship in a social enterprise was challenging but incredibly rewarding. I came home with real skills, new friendships, and completely different perspectives. This changed my career direction."</p>
-              <footer>
-                <strong>Maria Garcia</strong>
-                <span>Business Management Student, Spain</span>
-              </footer>
+            <article class="carousel-slide">
+              <div class="quote-card">
+                <div class="testimonial-header">
+                  <div class="testimonial-avatar" style="background: linear-gradient(135deg, #fa709a, #fee140);"><span>MG</span></div>
+                </div>
+                <div class="testimonial-content">
+                  <p>"I was nervous about Ghana, but from the moment I landed, I felt secure. My internship in a social enterprise was challenging but incredibly rewarding. I came home with real skills, new friendships, and completely different perspectives. This changed my career direction."</p>
+                </div>
+                <div class="testimonial-footer">
+                  <footer>
+                    <strong>Maria Garcia</strong>
+                    <span>Business Management Student, Spain</span>
+                  </footer>
+                </div>
+              </div>
             </article>
-            <article class="card quote-card carousel-slide">
-              <div class="testimonial-avatar" style="background: linear-gradient(135deg, #30cfd0, #330867);"><span>JS</span></div>
-              <p>"Working in a Ghanaian NGO taught me things no classroom could. The cultural experience—the people, the pace, the energy—made me a better person. I felt profoundly supported throughout. This is what I'll tell my grandchildren about."</p>
-              <footer>
-                <strong>Joao Silva</strong>
-                <span>Education & Social Work Student, Portugal</span>
-              </footer>
+            <article class="carousel-slide">
+              <div class="quote-card">
+                <div class="testimonial-header">
+                  <div class="testimonial-avatar" style="background: linear-gradient(135deg, #30cfd0, #330867);"><span>JS</span></div>
+                </div>
+                <div class="testimonial-content">
+                  <p>"Working in a Ghanaian NGO taught me things no classroom could. The cultural experience—the people, the pace, the energy—made me a better person. I felt profoundly supported throughout. This is what I'll tell my grandchildren about."</p>
+                </div>
+                <div class="testimonial-footer">
+                  <footer>
+                    <strong>Joao Silva</strong>
+                    <span>Education & Social Work Student, Portugal</span>
+                  </footer>
+                </div>
+              </div>
             </article>
-            <article class="card quote-card carousel-slide">
-              <div class="testimonial-avatar" style="background: linear-gradient(135deg, #a8edea, #fed6e3);"><span>AM</span></div>
-              <p>"My peers did internships in Paris and London. I did mine in Accra. Every job interview since, employers ask about it. That's not just a line on my CV—it's why I got my job offer. This internship became my competitive advantage."</p>
-              <footer>
-                <strong>Amara Mensah</strong>
-                <span>Finance Intern, Now Working in Frankfurt</span>
-              </footer>
+            <article class="carousel-slide">
+              <div class="quote-card">
+                <div class="testimonial-header">
+                  <div class="testimonial-avatar" style="background: linear-gradient(135deg, #a8edea, #fed6e3);"><span>AM</span></div>
+                </div>
+                <div class="testimonial-content">
+                  <p>"My peers did internships in Paris and London. I did mine in Accra. Every job interview since, employers ask about it. That's not just a line on my CV—it's why I got my job offer. This internship became my competitive advantage."</p>
+                </div>
+                <div class="testimonial-footer">
+                  <footer>
+                    <strong>Amara Mensah</strong>
+                    <span>Finance Intern, Now Working in Frankfurt</span>
+                  </footer>
+                </div>
+              </div>
             </article>
           </div>
           <div class="carousel-controls">
