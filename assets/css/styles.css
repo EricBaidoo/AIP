@@ -826,6 +826,7 @@ textarea:focus {
     text-align: center;
     padding: clamp(0.9rem, 2.5vw, 1.4rem);
     gap: var(--space-sm);
+    align-items: center;
   }
 
   .hero-text-wrapper {
@@ -840,6 +841,7 @@ textarea:focus {
   .hero-actions {
     width: 100%;
     gap: var(--space-xs);
+    margin-inline: auto;
   }
 
   .hero-actions .btn {
@@ -852,6 +854,8 @@ textarea:focus {
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: var(--space-xs);
     margin-top: 0.8rem;
+    margin-inline: auto;
+    justify-self: center;
   }
 
   .hero-metrics li {
