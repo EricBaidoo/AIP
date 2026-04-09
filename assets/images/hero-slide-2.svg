@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="t d">
+  <title id="t">Internship Field Experience</title>
+  <desc id="d">Stylized illustration representing internship activities in Ghana.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#e8efe9"/>
+      <stop offset="100%" stop-color="#f3e5d8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg2)"/>
+  <circle cx="280" cy="220" r="90" fill="#c47d45" opacity="0.55"/>
+  <rect x="120" y="180" width="1360" height="680" rx="48" fill="#ffffff" opacity="0.76"/>
+  <rect x="230" y="300" width="1140" height="420" rx="26" fill="#dce8e2"/>
+  <rect x="280" y="350" width="350" height="300" rx="20" fill="#6f5434" opacity="0.9"/>
+  <rect x="680" y="350" width="620" height="72" rx="18" fill="#2c3f55" opacity="0.86"/>
+  <rect x="680" y="460" width="560" height="60" rx="18" fill="#2c3f55" opacity="0.72"/>
+  <rect x="680" y="550" width="510" height="60" rx="18" fill="#2c3f55" opacity="0.58"/>
+  <text x="315" y="430" font-size="46" fill="#f7efe7" font-family="Arial, sans-serif">Practical</text>
+  <text x="315" y="490" font-size="46" fill="#f7efe7" font-family="Arial, sans-serif">Internship</text>
+  <text x="315" y="550" font-size="46" fill="#f7efe7" font-family="Arial, sans-serif">Exposure</text>
+</svg>

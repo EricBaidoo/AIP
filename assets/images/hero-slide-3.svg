@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="t d">
+  <title id="t">Program Impact and Outcomes</title>
+  <desc id="d">Stylized illustration representing outcomes and participant success.</desc>
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f0e6d9"/>
+      <stop offset="100%" stop-color="#deebe5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg3)"/>
+  <rect x="120" y="150" width="1360" height="700" rx="48" fill="#ffffff" opacity="0.78"/>
+  <rect x="220" y="250" width="620" height="500" rx="24" fill="#2c3f55" opacity="0.9"/>
+  <rect x="900" y="290" width="480" height="120" rx="20" fill="#6f5434" opacity="0.9"/>
+  <rect x="900" y="450" width="440" height="80" rx="20" fill="#2c3f55" opacity="0.8"/>
+  <rect x="900" y="570" width="390" height="80" rx="20" fill="#2c3f55" opacity="0.64"/>
+  <path d="M300 650 L420 530 L520 600 L650 450 L760 520" fill="none" stroke="#f4ecdf" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="275" y="345" font-size="52" fill="#f4ecdf" font-family="Arial, sans-serif">Program</text>
+  <text x="275" y="410" font-size="52" fill="#f4ecdf" font-family="Arial, sans-serif">Outcomes</text>
+  <text x="275" y="475" font-size="52" fill="#f4ecdf" font-family="Arial, sans-serif">and Impact</text>
+</svg>
