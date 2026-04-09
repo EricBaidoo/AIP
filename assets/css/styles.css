@@ -967,6 +967,29 @@ textarea:focus {
   .contact-form {
     padding: 1rem;
   }
+
+  .footer-content {
+    grid-template-columns: 1fr;
+    gap: 1.6rem;
+    margin-bottom: 1.8rem;
+    padding-bottom: 1.6rem;
+  }
+
+  .footer-section h4 {
+    font-size: 1rem;
+  }
+
+  .footer-section p {
+    font-size: 0.9rem;
+  }
+
+  .footer-bottom {
+    gap: 0.4rem;
+  }
+
+  .footer-bottom p {
+    font-size: 0.85rem;
+  }
 }
 
 @media (prefers-reduced-motion: reduce) {
