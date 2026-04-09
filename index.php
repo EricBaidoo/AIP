@@ -74,54 +74,54 @@
 
         <div class="opportunity-benefits">
           <div class="benefit-column">
-            <h3>📈 Why This Matters for Your Institution</h3>
+            <h3>Strategic Value</h3>
             <div class="benefit-group">
-              <h4>Market Leadership & Prestige</h4>
+              <h4>Market Leadership</h4>
               <ul>
-                <li>Position your institution as progressive and globally-minded</li>
-                <li>Attract ambitious students seeking career acceleration</li>
-                <li>Build institutional prestige through transformative experiences</li>
+                <li>Position your institution ahead of competitors still operating Europe-only models</li>
+                <li>Attract ambitious students seeking genuine international experience</li>
+                <li>Build prestige through alumni success stories</li>
               </ul>
             </div>
             <div class="benefit-group">
               <h4>Student Outcomes</h4>
               <ul>
-                <li>Graduates with African professional networks gain unique advantage</li>
-                <li>Real-world experience builds leadership skills</li>
-                <li>Higher placement rates and starting salaries</li>
+                <li>Graduates with African professional networks command higher starting salaries</li>
+                <li>Real-world experience builds advanced leadership competencies</li>
+                <li>Competitive advantage in global professional markets</li>
               </ul>
             </div>
             <div class="benefit-group">
-              <h4>Revenue & Sustainability</h4>
+              <h4>Program Economics</h4>
               <ul>
-                <li>Premium pricing for specialized programs</li>
-                <li>Expanded alumni network creates funding opportunities</li>
-                <li>Predictable, repeatable program model</li>
+                <li>Premium pricing models for specialized programs</li>
+                <li>Sustainable alumni engagement and funding pipelines</li>
+                <li>Repeatable operations with predictable outcomes</li>
               </ul>
             </div>
           </div>
 
           <div class="barrier-column">
-            <h3>⚠️ The Hidden Barriers</h3>
+            <h3>Implementation Challenges</h3>
             <div class="barrier-item">
-              <strong>Partner Credibility</strong>
-              <p>How do you vet an African partner? How do you ensure student safety and placement quality?</p>
+              <strong>Vetting Partner Credibility</strong>
+              <p>How do you ensure an unfamiliar partner delivers consistent safety and quality?</p>
             </div>
             <div class="barrier-item">
-              <strong>Regulatory Complexity</strong>
-              <p>Visa requirements, work permits, Ghana Card registration—each wrong step costs months of delays</p>
+              <strong>Regulatory Navigation</strong>
+              <p>Visa processes, work permits, local documentation—each procedural error compounds</p>
             </div>
             <div class="barrier-item">
-              <strong>Operational Overwhelm</strong>
-              <p>Accommodation, airport coordination, emergency protocols, insurance, in-country support teams</p>
+              <strong>Operational Complexity</strong>
+              <p>Housing coordination, emergency protocols, 24/7 support, insurance frameworks</p>
             </div>
             <div class="barrier-item">
               <strong>Institutional Liability</strong>
-              <p>Participant welfare, safeguarding, emergency medical response—substantial institutional risk</p>
+              <p>Safeguarding, medical access, emergency response, duty of care</p>
             </div>
             <div class="barrier-item">
               <strong>Quality Assurance</strong>
-              <p>Without on-ground monitoring, how do you ensure internship quality and maintain oversight?</p>
+              <p>Real-time monitoring and issue resolution across different time zones</p>
             </div>
           </div>
         </div>
@@ -145,29 +145,29 @@
         <div class="solution-services">
           <div class="service-item">
             <div class="service-content">
-              <h3><span class="service-icon">💼</span> Internship Placement</h3>
-              <p>Access to pre-vetted host organizations across diverse sectors—business, finance, hospitality, education, NGOs, social enterprises. Placement matching based on student background. Each placement includes site visits, supervisor briefings, and ongoing quality monitoring.</p>
+              <h3>Internship Placement</h3>
+              <p>Access to pre-vetted host organizations across business, finance, hospitality, education, NGOs, and social enterprises. We match students based on background and learning objectives, including site visits, supervisor briefings, and quality monitoring throughout.</p>
             </div>
           </div>
 
           <div class="service-item">
             <div class="service-content">
-              <h3><span class="service-icon">✓</span> Immigration & Compliance</h3>
-              <p>Visa-on-arrival processing with pre-approval coordination, work permit guidance, Ghana Card registration, document submission protocols, and deadline management. We navigate bureaucracy so your students proceed smoothly.</p>
+              <h3>Immigration & Compliance</h3>
+              <p>Complete handling of visa-on-arrival processing, work permit coordination, Ghana Card registration, document management, and deadline tracking. We navigate all regulatory requirements so students proceed without delay.</p>
             </div>
           </div>
 
           <div class="service-item">
             <div class="service-content">
-              <h3><span class="service-icon">🏠</span> Accommodation & Welfare</h3>
-              <p>Verified safe housing in suburban Accra, airport pickup coordination, local orientation programs, 24/7 emergency contact availability, medical referral networks, and regular welfare check-ins. Students feel supported from day one.</p>
+              <h3>Accommodation & Welfare</h3>
+              <p>Verified safe housing in suburban Accra, airport coordination, local orientation, 24/7 emergency availability, medical referral networks, and ongoing welfare check-ins. Students have institutional-level support from arrival through return.</p>
             </div>
           </div>
 
           <div class="service-item">
             <div class="service-content">
-              <h3><span class="service-icon">📊</span> Program Management</h3>
-              <p>Weekly participant communication, bi-weekly supervisor feedback, monthly progress reports to your institution, real-time issue resolution, end-of-program surveys, and certification documentation. You maintain visibility and control.</p>
+              <h3>Program Management</h3>
+              <p>Weekly participant communication, bi-weekly supervisor feedback, monthly institutional reports, real-time issue resolution, end-of-program evaluation, and certification documentation. Your institution maintains complete visibility and control.</p>
             </div>
           </div>
         </div>
@@ -186,30 +186,30 @@
         
         <div class="partnership-comparison">
           <div class="partnership-column">
-            <h3>🎓 Your Institution's Role</h3>
-            <p class="column-lead">You remain the program owner, responsible for:</p>
+            <h3>Your Institution</h3>
+            <p class="column-lead">You remain the program owner and are responsible for:</p>
             <ul class="role-list">
-              <li>Student recruitment and selection based on your criteria</li>
-              <li>Academic preparation: pre-departure training, learning objectives, career guidance</li>
-              <li>Institutional communications: visa overview, safety briefings, cultural orientation</li>
-              <li>Administrative coordination: documentation, approvals, insurances</li>
-              <li>Academic credit/transcript management upon return</li>
+              <li>Student recruitment and selection</li>
+              <li>Academic preparation and learning objectives</li>
+              <li>Pre-departure orientation and communications</li>
+              <li>Administrative coordination and documentation</li>
+              <li>Academic credit and transcript management</li>
             </ul>
-            <p class="timeline-note"><strong>Timeline:</strong> 4-6 weeks of preparation before student departure</p>
+            <p class="timeline-note">Preparation timeline: 4–6 weeks prior to student departure</p>
           </div>
 
           <div class="partnership-column">
-            <h3>🌍 Our Ghana Team's Role</h3>
-            <p class="column-lead">We handle all in-country operations and local complexity:</p>
+            <h3>Cardinal In Ghana</h3>
+            <p class="column-lead">We manage all in-country operations and local coordination:</p>
             <ul class="role-list">
-              <li>Final placement matching based on market opportunities and student profile</li>
-              <li>All visa and immigration coordination (submission, follow-ups, appointments)</li>
-              <li>Accommodation verification, airport coordination, local orientation</li>
-              <li>Ongoing participant support: weekly check-ins, issue resolution, emergency protocols</li>
-              <li>Internship monitoring: supervisor communication, work oversight, learning assessment</li>
-              <li>Comprehensive reporting: progress updates, outcome documentation, impact metrics</li>
+              <li>Final placement matching and employer coordination</li>
+              <li>Visa, immigration, and regulatory compliance</li>
+              <li>Housing verification and airport logistics</li>
+              <li>Ongoing participant support and emergency protocols</li>
+              <li>Internship monitoring and outcome tracking</li>
+              <li>Reporting and impact documentation</li>
             </ul>
-            <p class="timeline-note"><strong>Timeline:</strong> Active support from 8 weeks pre-departure through 2 weeks post-departure</p>
+            <p class="timeline-note">Active support: 8 weeks pre-departure through 2 weeks post-departure</p>
           </div>
         </div>
         
@@ -245,10 +245,9 @@
         <div class="differentiators-stack">
           <div class="differentiator-block">
             <div class="differentiator-content">
-              <h3>🏆 Proven Track Record</h3>
-              <p><strong>More than a startup partner:</strong></p>
+              <h3>Proven Track Record</h3>
+              <p><strong>150+ successful placements across European institutions</strong></p>
               <ul>
-                <li>150+ successful placements across European institutions</li>
                 <li>98% placement success rate with zero safety incidents</li>
                 <li>4.8/5 participant satisfaction (independently verified)</li>
                 <li>5+ years operational experience in Ghana internship market</li>
@@ -259,25 +258,25 @@
 
           <div class="differentiator-block differentiator-reverse">
             <div class="differentiator-content">
-              <h3>🤝 Local Expertise & Networks</h3>
-              <p><strong>Deep roots in Ghana's professional ecosystem:</strong></p>
+              <h3>Local Expertise & Networks</h3>
+              <p><strong>Deep operational roots in Ghana's professional ecosystem</strong></p>
               <ul>
                 <li>Local team with insider knowledge of visa processes and employer cultures</li>
-                <li>Pre-established relationships with government agencies and accommodation providers</li>
+                <li>Pre-established relationships with government agencies and providers</li>
                 <li>Network of employer partners vetted over years, not weeks</li>
-                <li>24/7 local support: no time zone delays when emergencies occur</li>
+                <li>24/7 local support—no time zone delays when emergencies occur</li>
               </ul>
             </div>
           </div>
 
           <div class="differentiator-block">
             <div class="differentiator-content">
-              <h3>📋 Institutional Rigor</h3>
-              <p><strong>Professional standards matching European quality:</strong></p>
+              <h3>Institutional Rigor</h3>
+              <p><strong>Professional standards matching European institutional requirements</strong></p>
               <ul>
                 <li>Written participant welfare protocols and emergency procedures</li>
-                <li>Safeguarding training for all team members and partners</li>
-                <li>Weekly structured reporting on each participant to your institution</li>
+                <li>Safeguarding training for all team members and employers</li>
+                <li>Weekly structured reporting to your institution on each participant</li>
                 <li>Insurance coordination and liability frameworks protecting institutions</li>
                 <li>Documentation systems built for institutional compliance</li>
               </ul>
@@ -286,14 +285,13 @@
 
           <div class="differentiator-block differentiator-reverse">
             <div class="differentiator-content">
-              <h3>🚀 Strategic Focus</h3>
-              <p><strong>Your success is our business model:</strong></p>
+              <h3>Strategic Partnership</h3>
+              <p><strong>Your success is our business model—we're committed for the long term</strong></p>
               <ul>
-                <li>We're committed to building long-term institutional partnerships</li>
                 <li>Dedicated account management for your institution</li>
                 <li>Continuous program optimization based on feedback and outcomes</li>
-                <li>Flexible scaling: start small, grow with confidence</li>
-                <li>Transparent pricing with no hidden fees</li>
+                <li>Flexible scaling—start small, grow with confidence</li>
+                <li>Transparent pricing with no hidden fees or escalations</li>
               </ul>
             </div>
           </div>
