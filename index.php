@@ -54,9 +54,9 @@
         <a class="btn btn-outline" href="#testimonials">See Success Stories</a>
       </div>
       <ul class="hero-metrics" aria-label="Program metrics">
-        <li><strong>150+</strong><span>Interns hosted</span></li>
-        <li><strong>98%</strong><span>Placement success rate</span></li>
-        <li><strong>4.8/5</strong><span>Participant satisfaction</span></li>
+        <li><strong><span class="stat-number">150</span>+</strong><span>Interns hosted</span></li>
+        <li><strong><span class="stat-number">98</span>%</strong><span>Placement success rate</span></li>
+        <li><strong><span class="stat-number">4</span>.8/5</strong><span>Participant satisfaction</span></li>
       </ul>
     </div>
   </section>
@@ -113,18 +113,22 @@
         <p class="lead">Cardinal Business College provides end-to-end in-country hosting infrastructure in Ghana.</p>
         <div class="grid grid-4">
           <article class="card service-card">
+            <span class="service-icon">💼</span>
             <h3>Internship Placement</h3>
             <p>Pre-screened host organizations across business, hospitality, education, NGOs, and administration.</p>
           </article>
           <article class="card service-card">
+            <span class="service-icon">✓</span>
             <h3>Immigration & Compliance</h3>
             <p>Visa-on-arrival processing, visa extension support, and Ghana Card registration guidance.</p>
           </article>
           <article class="card service-card">
+            <span class="service-icon">🏠</span>
             <h3>Accommodation & Welfare</h3>
             <p>Safe housing, airport pickup, local orientation, and ongoing participant welfare support.</p>
           </article>
           <article class="card service-card">
+            <span class="service-icon">📊</span>
             <h3>Program Management</h3>
             <p>Monitoring, feedback loops, emergency response readiness, and quality assurance reporting.</p>
           </article>
@@ -286,5 +290,7 @@
       </div>
     </div>
   </footer>
+
+  <button class="scroll-to-top" id="scrollToTop" title="Back to top">↑</button>
 </body>
 </html>

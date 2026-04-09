@@ -90,3 +90,73 @@ if (contactForm && feedback) {
     contactForm.reset();
   });
 }
+
+// Scroll-to-top button functionality
+const scrollToTopBtn = document.getElementById('scrollToTop');
+
+if (scrollToTopBtn) {
+  window.addEventListener('scroll', () => {
+    if (window.scrollY > 300) {
+      scrollToTopBtn.classList.add('visible');
+    } else {
+      scrollToTopBtn.classList.remove('visible');
+    }
+  });
+
+  scrollToTopBtn.addEventListener('click', () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth',
+    });
+  });
+}
+
+// Counter animations for statistics
+function animateCounter(element, finalValue, duration = 1500) {
+  const startValue = 0;
+  const startTime = Date.now();
+  const isDecimal = finalValue % 1 !== 0;
+
+  function update() {
+    const elapsed = Date.now() - startTime;
+    const progress = Math.min(elapsed / duration, 1);
+    const currentValue = startValue + (finalValue - startValue) * progress;
+    const displayValue = isDecimal ? currentValue.toFixed(1) : Math.floor(currentValue);
+    element.textContent = displayValue;
+
+    if (progress < 1) {
+      requestAnimationFrame(update);
+    } else {
+      element.textContent = finalValue;
+    }
+  }
+
+  update();
+}
+
+// Observe stat cards and animate counters when visible
+const statNumbers = document.querySelectorAll('.stat-number');
+
+if (statNumbers.length > 0) {
+  const statObserver = new IntersectionObserver(
+    (entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          const element = entry.target;
+          const finalValue = parseInt(element.textContent, 10);
+
+          if (!isNaN(finalValue)) {
+            animateCounter(element, finalValue, 1500);
+          }
+
+          statObserver.unobserve(element);
+        }
+      });
+    },
+    {
+      threshold: 0.5,
+    }
+  );
+
+  statNumbers.forEach((stat) => statObserver.observe(stat));
+}
