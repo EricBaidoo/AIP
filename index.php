@@ -72,39 +72,58 @@
           <p>Today's employers don't just want degree holders—they want globally aware professionals. European internships alone are no longer differentiated. Your competitors are already moving into emerging markets. The institutions offering African internship pathways will attract the most ambitious students and build stronger employer networks. Yet most have never attempted it, deterred by complexity, risk, and coordination overhead. This is your competitive advantage, waiting to be seized.</p>
         </div>
 
-        <div class="grid grid-2">
-          <article class="card">
+        <div class="opportunity-benefits">
+          <div class="benefit-column">
             <h3>📈 Why This Matters for Your Institution</h3>
-            <p><strong>Market Leadership & Prestige</strong></p>
-            <ul>
-              <li>Position your institution as progressive and globally-minded—a critical recruitment differentiator</li>
-              <li>Attract ambitious students seeking non-traditional career acceleration pathways</li>
-              <li>Build institutional prestige through testimonials of transformative experiences</li>
-            </ul>
-            <p><strong>Student Outcomes</strong></p>
-            <ul>
-              <li>Graduates with African professional networks enter job markets with unique competitive advantage</li>
-              <li>Real-world experience in emerging markets builds leadership skills no classroom can teach</li>
-              <li>Career differentiation leading to higher placement rates and starting salaries</li>
-            </ul>
-            <p><strong>Revenue & Sustainability</strong></p>
-            <ul>
-              <li>Premium pricing for specialized international programs</li>
-              <li>Expanded alumni network creates future funding opportunities</li>
-              <li>Predictable, repeatable program model reduces operational complexity</li>
-            </ul>
-          </article>
-          <article class="card">
+            <div class="benefit-group">
+              <h4>Market Leadership & Prestige</h4>
+              <ul>
+                <li>Position your institution as progressive and globally-minded</li>
+                <li>Attract ambitious students seeking career acceleration</li>
+                <li>Build institutional prestige through transformative experiences</li>
+              </ul>
+            </div>
+            <div class="benefit-group">
+              <h4>Student Outcomes</h4>
+              <ul>
+                <li>Graduates with African professional networks gain unique advantage</li>
+                <li>Real-world experience builds leadership skills</li>
+                <li>Higher placement rates and starting salaries</li>
+              </ul>
+            </div>
+            <div class="benefit-group">
+              <h4>Revenue & Sustainability</h4>
+              <ul>
+                <li>Premium pricing for specialized programs</li>
+                <li>Expanded alumni network creates funding opportunities</li>
+                <li>Predictable, repeatable program model</li>
+              </ul>
+            </div>
+          </div>
+
+          <div class="barrier-column">
             <h3>⚠️ The Hidden Barriers</h3>
-            <p><strong>Why Expansion Has Been So Hard</strong></p>
-            <ul>
-              <li><strong>Partner credibility:</strong> How do you vet an African partner? How do you ensure student safety and placement quality?</li>
-              <li><strong>Regulatory complexity:</strong> Visa requirements, work permits, Ghana Card registration—each wrong step costs months of delays</li>
-              <li><strong>Operational overwhelm:</strong> Accommodation, airport coordination, emergency protocols, insurance, in-country support teams—endless complexity</li>
-              <li><strong>Institutional liability:</strong> Participant welfare, safeguarding, emergency medical response—substantial institutional risk</li>\n              <li><strong>Quality assurance:</strong> Without on-ground monitoring, how do you ensure internship quality and maintain oversight?</li>
-            </ul>
-            <p class=\"card-closing-text\"><em>This complexity is why most haven't launched African programs. It's also why those who do—with the right partner—achieve extraordinary competitive advantage.</em></p>
-          </article>
+            <div class="barrier-item">
+              <strong>Partner Credibility</strong>
+              <p>How do you vet an African partner? How do you ensure student safety and placement quality?</p>
+            </div>
+            <div class="barrier-item">
+              <strong>Regulatory Complexity</strong>
+              <p>Visa requirements, work permits, Ghana Card registration—each wrong step costs months of delays</p>
+            </div>
+            <div class="barrier-item">
+              <strong>Operational Overwhelm</strong>
+              <p>Accommodation, airport coordination, emergency protocols, insurance, in-country support teams</p>
+            </div>
+            <div class="barrier-item">
+              <strong>Institutional Liability</strong>
+              <p>Participant welfare, safeguarding, emergency medical response—substantial institutional risk</p>
+            </div>
+            <div class="barrier-item">
+              <strong>Quality Assurance</strong>
+              <p>Without on-ground monitoring, how do you ensure internship quality and maintain oversight?</p>
+            </div>
+          </div>
         </div>
 
         <div class="opportunity-closing">
@@ -123,27 +142,34 @@
           <p>Our service model is built on one principle: <strong>your institution should never compromise on student safety, experience quality, or educational outcomes due to logistics or regulatory complexity</strong>. That's our job. We've invested years building local networks, understanding Ghanaian regulations, establishing welfare protocols, and creating systems that reliably deliver exceptional experiences.</p>
         </div>
 
-        <div class="grid grid-4">
-          <article class="card service-card">
-            <span class="service-icon">💼</span>
-            <h3>Internship Placement</h3>
-            <p><strong>Your competitive advantage:</strong> Access to pre-vetted host organizations across diverse sectors—business, finance, hospitality, education, NGOs, social enterprises. Placement matching based on student background. Each placement includes site visits, supervisor briefings, and ongoing quality monitoring.</p>
-          </article>
-          <article class="card service-card">
-            <span class="service-icon">✓</span>
-            <h3>Immigration & Compliance</h3>
-            <p><strong>Regulatory mastery:</strong> Visa-on-arrival processing with pre-approval coordination, work permit guidance, Ghana Card registration, document submission protocols, and deadline management. We navigate bureaucracy so your students proceed smoothly.</p>
-          </article>
-          <article class="card service-card">
-            <span class="service-icon">🏠</span>
-            <h3>Accommodation & Welfare</h3>
-            <p><strong>Student security & comfort:</strong> Verified safe housing in suburban Accra, airport pickup coordination, local orientation programs, 24/7 emergency contact availability, medical referral networks, and regular welfare check-ins. Students feel supported from day one.</p>
-          </article>
-          <article class="card service-card">
-            <span class="service-icon">📊</span>
-            <h3>Program Management</h3>
-            <p><strong>Institutional accountability:</strong> Weekly participant communication, bi-weekly supervisor feedback, monthly progress reports to your institution, real-time issue resolution, end-of-program surveys, and certification documentation. You maintain visibility and control.</p>
-          </article>
+        <div class="solution-services">
+          <div class="service-item">
+            <div class="service-content">
+              <h3><span class="service-icon">💼</span> Internship Placement</h3>
+              <p>Access to pre-vetted host organizations across diverse sectors—business, finance, hospitality, education, NGOs, social enterprises. Placement matching based on student background. Each placement includes site visits, supervisor briefings, and ongoing quality monitoring.</p>
+            </div>
+          </div>
+
+          <div class="service-item">
+            <div class="service-content">
+              <h3><span class="service-icon">✓</span> Immigration & Compliance</h3>
+              <p>Visa-on-arrival processing with pre-approval coordination, work permit guidance, Ghana Card registration, document submission protocols, and deadline management. We navigate bureaucracy so your students proceed smoothly.</p>
+            </div>
+          </div>
+
+          <div class="service-item">
+            <div class="service-content">
+              <h3><span class="service-icon">🏠</span> Accommodation & Welfare</h3>
+              <p>Verified safe housing in suburban Accra, airport pickup coordination, local orientation programs, 24/7 emergency contact availability, medical referral networks, and regular welfare check-ins. Students feel supported from day one.</p>
+            </div>
+          </div>
+
+          <div class="service-item">
+            <div class="service-content">
+              <h3><span class="service-icon">📊</span> Program Management</h3>
+              <p>Weekly participant communication, bi-weekly supervisor feedback, monthly progress reports to your institution, real-time issue resolution, end-of-program surveys, and certification documentation. You maintain visibility and control.</p>
+            </div>
+          </div>
         </div>
 
         <div class="solution-outcome">
@@ -158,23 +184,24 @@
         <h2>How The Partnership Works</h2>
         <p class="lead">A clear division of responsibilities ensures efficiency, accountability, and student success. Your institution retains full oversight while we execute operational excellence on the ground.</p>
         
-        <div class="grid grid-2">
-          <article class="card flow-card">
+        <div class="partnership-comparison">
+          <div class="partnership-column">
             <h3>🎓 Your Institution's Role</h3>
-            <p><strong>You remain the program owner, responsible for:</strong></p>
-            <ul>
+            <p class="column-lead">You remain the program owner, responsible for:</p>
+            <ul class="role-list">
               <li>Student recruitment and selection based on your criteria</li>
               <li>Academic preparation: pre-departure training, learning objectives, career guidance</li>
               <li>Institutional communications: visa overview, safety briefings, cultural orientation</li>
               <li>Administrative coordination: documentation, approvals, insurances</li>
               <li>Academic credit/transcript management upon return</li>
             </ul>
-            <p class="flow-card-note"><strong>Your timeline:</strong> 4-6 weeks of preparation</p>
-          </article>
-          <article class="card flow-card">
+            <p class="timeline-note"><strong>Timeline:</strong> 4-6 weeks of preparation before student departure</p>
+          </div>
+
+          <div class="partnership-column">
             <h3>🌍 Our Ghana Team's Role</h3>
-            <p><strong>We handle all in-country operations and local complexity:</strong></p>
-            <ul>
+            <p class="column-lead">We handle all in-country operations and local complexity:</p>
+            <ul class="role-list">
               <li>Final placement matching based on market opportunities and student profile</li>
               <li>All visa and immigration coordination (submission, follow-ups, appointments)</li>
               <li>Accommodation verification, airport coordination, local orientation</li>
@@ -182,8 +209,8 @@
               <li>Internship monitoring: supervisor communication, work oversight, learning assessment</li>
               <li>Comprehensive reporting: progress updates, outcome documentation, impact metrics</li>
             </ul>
-            <p class="flow-card-note"><strong>Our timeline:</strong> Active support from 8 weeks pre-departure through 2 weeks post-departure</p>
-          </article>
+            <p class="timeline-note"><strong>Timeline:</strong> Active support from 8 weeks pre-departure through 2 weeks post-departure</p>
+          </div>
         </div>
         
         <div class="program-highlights">
@@ -215,49 +242,60 @@
         <h2>Why Cardinal Business College?</h2>
         <p class="lead">Not all African hosting partners are equal. Here's what sets Cardinal apart and why institutions trust us with their students.</p>
         
-        <div class="grid grid-2">
-          <div class="card">
-            <h3>🏆 Proven Track Record</h3>
-            <p><strong>More than a startup partner:</strong></p>
-            <ul>
-              <li>150+ successful placements across European institutions</li>
-              <li>98% placement success rate with zero safety incidents</li>
-              <li>4.8/5 participant satisfaction (independently verified)</li>
-              <li>5+ years operational experience in Ghana internship market</li>
-              <li>Established relationships with 40+ trusted employer partners</li>
-            </ul>
+        <div class="differentiators-stack">
+          <div class="differentiator-block">
+            <div class="differentiator-content">
+              <h3>🏆 Proven Track Record</h3>
+              <p><strong>More than a startup partner:</strong></p>
+              <ul>
+                <li>150+ successful placements across European institutions</li>
+                <li>98% placement success rate with zero safety incidents</li>
+                <li>4.8/5 participant satisfaction (independently verified)</li>
+                <li>5+ years operational experience in Ghana internship market</li>
+                <li>Established relationships with 40+ trusted employer partners</li>
+              </ul>
+            </div>
           </div>
-          <div class="card">
-            <h3>🤝 Local Expertise & Networks</h3>
-            <p><strong>Deep roots in Ghana's professional ecosystem:</strong></p>
-            <ul>
-              <li>Local team with insider knowledge of visa processes and employer cultures</li>
-              <li>Pre-established relationships with government agencies and accommodation providers</li>
-              <li>Network of employer partners vetted over years, not weeks</li>
-              <li>24/7 local support: no time zone delays when emergencies occur</li>
-            </ul>
+
+          <div class="differentiator-block differentiator-reverse">
+            <div class="differentiator-content">
+              <h3>🤝 Local Expertise & Networks</h3>
+              <p><strong>Deep roots in Ghana's professional ecosystem:</strong></p>
+              <ul>
+                <li>Local team with insider knowledge of visa processes and employer cultures</li>
+                <li>Pre-established relationships with government agencies and accommodation providers</li>
+                <li>Network of employer partners vetted over years, not weeks</li>
+                <li>24/7 local support: no time zone delays when emergencies occur</li>
+              </ul>
+            </div>
           </div>
-          <div class="card">
-            <h3>📋 Institutional Rigor</h3>
-            <p><strong>Professional standards matching European quality:</strong></p>
-            <ul>
-              <li>Written participant welfare protocols and emergency procedures</li>
-              <li>Safeguarding training for all team members and partners</li>
-              <li>Weekly structured reporting on each participant to your institution</li>
-              <li>Insurance coordination and liability frameworks protecting institutions</li>
-              <li>Documentation systems built for institutional compliance</li>
-            </ul>
+
+          <div class="differentiator-block">
+            <div class="differentiator-content">
+              <h3>📋 Institutional Rigor</h3>
+              <p><strong>Professional standards matching European quality:</strong></p>
+              <ul>
+                <li>Written participant welfare protocols and emergency procedures</li>
+                <li>Safeguarding training for all team members and partners</li>
+                <li>Weekly structured reporting on each participant to your institution</li>
+                <li>Insurance coordination and liability frameworks protecting institutions</li>
+                <li>Documentation systems built for institutional compliance</li>
+              </ul>
+            </div>
           </div>
-          <div class="card">
-            <h3>🚀 Strategic Focus</h3>
-            <p><strong>Your success is our business model:</strong></p>
-            <ul>
-              <li>We're committed to building long-term institutional partnerships</li>
-              <li>Dedicated account management for your institution</li>
-              <li>Continuous program optimization based on feedback and outcomes</li>
-              <li>Flexible scaling: start small, grow with confidence</li>
-              <li>Transparent pricing with no hidden fees</li>
-            </ul>
+
+          <div class="differentiator-block differentiator-reverse">
+            <div class="differentiator-content">
+              <h3>🚀 Strategic Focus</h3>
+              <p><strong>Your success is our business model:</strong></p>
+              <ul>
+                <li>We're committed to building long-term institutional partnerships</li>
+                <li>Dedicated account management for your institution</li>
+                <li>Continuous program optimization based on feedback and outcomes</li>
+                <li>Flexible scaling: start small, grow with confidence</li>
+                <li>Transparent pricing with no hidden fees</li>
+              </ul>
+            </div>
           </div>
         </div>
       </div>
