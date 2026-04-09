@@ -179,7 +179,7 @@ function initializeCarousel(carouselName) {
     const bounded = (index + totalSlides) % totalSlides;
     currentIndex = bounded;
 
-    const offset = -bounded * 100;
+    const offset = -bounded * 50;
     track.style.transform = `translateX(${offset}%)`;
 
     dots.forEach((dot, dotIndex) => {
