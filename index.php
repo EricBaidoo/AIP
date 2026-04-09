@@ -282,6 +282,16 @@
             <li><a href="#top">Back to Top</a></li>
           </ul>
         </div>
+
+        <div class="footer-section">
+          <h4>Follow Us</h4>
+          <ul>
+            <li><a href="https://web.facebook.com/people/Cardinal-Business-College/61573013355995/" target="_blank" rel="noopener noreferrer">Facebook</a></li>
+            <li><a href="https://x.com/CardinalBizC" target="_blank" rel="noopener noreferrer">X (Twitter)</a></li>
+            <li><a href="https://www.instagram.com/cardinalbusinesscollege/" target="_blank" rel="noopener noreferrer">Instagram</a></li>
+            <li><a href="https://www.linkedin.com/company/100807680/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+          </ul>
+        </div>
       </div>
 
       <div class="footer-bottom">
