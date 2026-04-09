@@ -243,9 +243,47 @@
   </main>
 
   <footer class="site-footer">
-    <div class="container footer-wrap">
-      <p>Africa Internship Program | Cardinal Business College | Ghana</p>
-      <a href="#top">Back to top</a>
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h4>About Cardinal</h4>
+          <p>Empowering institutions with professional internship hosting infrastructure in Ghana.</p>
+        </div>
+
+        <div class="footer-section">
+          <h4>Program</h4>
+          <ul>
+            <li><a href="#opportunity">The Opportunity</a></li>
+            <li><a href="#solution">Our Solution</a></li>
+            <li><a href="#partnership">How It Works</a></li>
+            <li><a href="#contact">Get Started</a></li>
+          </ul>
+        </div>
+
+        <div class="footer-section">
+          <h4>Contact</h4>
+          <p>
+            <a href="mailto:info@cbc.edu.gh">info@cbc.edu.gh</a><br>
+            <a href="tel:+233244338605">+233 244 338 605</a><br>
+            JRHF+G2C Gulf House<br>
+            Accra, Ghana
+          </p>
+        </div>
+
+        <div class="footer-section">
+          <h4>Quick Links</h4>
+          <ul>
+            <li><a href="#testimonials">Success Stories</a></li>
+            <li><a href="#contact">Contact Us</a></li>
+            <li><a href="#top">Back to Top</a></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>&copy; 2026 Africa Internship Program. Cardinal Business College. All rights reserved.</p>
+        <p>Transforming African internship experiences through excellence and innovation.</p>
+      </div>
     </div>
   </footer>
 </body>
