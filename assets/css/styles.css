@@ -327,7 +327,7 @@ h1 {
   align-items: center;
   justify-content: center;
   padding: 0.72rem 1.3rem;
-  border-radius: 0.5rem;
+  border-radius: 0;
   border: 0.08rem solid transparent;
   font-weight: 600;
   letter-spacing: 0.01em;
@@ -450,7 +450,7 @@ h2::after {
 .card {
   background: var(--surface);
   border: 0.08rem solid var(--stroke);
-  border-radius: var(--radius-lg);
+  border-radius: 0;
   padding: clamp(1rem, 1.6vw, 1.4rem);
   box-shadow: var(--shadow);
   position: relative;
@@ -497,7 +497,7 @@ h2::after {
   padding: clamp(1.6rem, 3vw, 2.4rem);
   background: hsl(42 35% 97% / 0.6);
   border-left: 0.3rem solid hsl(19 82% 52%);
-  border-radius: var(--radius-md);
+  border-radius: 0;
   font-size: 1.05rem;
   line-height: 1.6;
   color: var(--ink-main);
@@ -511,7 +511,7 @@ h2::after {
   margin-top: var(--space-lg);
   padding: clamp(1.6rem, 3vw, 2.4rem);
   background: hsl(205 42% 16% / 0.06);
-  border-radius: var(--radius-lg);
+  border-radius: 0;
   border: 0.08rem solid var(--stroke);
 }
 
@@ -585,7 +585,7 @@ h2::after {
   width: min(100%, 44rem);
   background: hsl(0 0% 100% / 0.74);
   border: 0.08rem solid hsl(34 20% 74% / 0.7);
-  border-radius: var(--radius-lg);
+  border-radius: 0;
   padding: 1.2rem;
   box-shadow: var(--shadow);
 }
@@ -598,7 +598,7 @@ input,
 textarea {
   width: 100%;
   border: 0.08rem solid var(--stroke);
-  border-radius: var(--radius-md);
+  border-radius: 0;
   background: var(--surface);
   font: inherit;
   color: var(--ink-main);
@@ -717,7 +717,7 @@ textarea:focus {
     padding: 1rem 1.2rem;
     font-size: 0.95rem;
     font-weight: 600;
-    border-radius: 0.4rem;
+    border-radius: 0;
     letter-spacing: 0.005em;
   }
 
@@ -874,7 +874,7 @@ textarea:focus {
     padding: 0.95rem 1.1rem;
     font-size: 0.92rem;
     font-weight: 600;
-    border-radius: 0.4rem;
+    border-radius: 0;
     letter-spacing: 0.005em;
   }
 
